@@ -12,7 +12,7 @@ import figma from "@figma/code-connect"
 
 figma.connect(
   Button,
-  "https://www.figma.com/design/xf57kACm2E1z20Fx3KHsFe?node-id=2%3A3",
+  "https://www.figma.com/design/xf57kACm2E1z20Fx3KHsFe?node-id=21-5&t=CturwuWyRPPNCAO2-0",
   {
     props: {},
     example: (props) => <Button />,
